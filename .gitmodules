@@ -1,0 +1,6 @@
+[submodule "MeshFlow-Markets"]
+	path = MeshFlow-Markets
+	url = https://github.com/Jamie-Watson/MeshFlow-Markets.git
+[submodule "solace-agent-meshwise"]
+	path = solace-agent-meshwise
+	url = https://github.com/Jamie-Watson/solace-agent-meshwise.git
